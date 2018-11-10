@@ -435,6 +435,12 @@ pre code {
   background: rgba(0, 0, 0, .12)
 }
 
+.navbar-custom .navbar-brand {
+  color: #fff;
+  padding: 3px 15px;
+  line-height: 20px
+}
+
 @media only screen and (min-width:768px) {
   .navbar-custom {
     background: 0 0;
@@ -447,7 +453,7 @@ pre code {
 
   .navbar-custom .navbar-brand {
     color: #fff;
-    padding: 20px;
+    padding: 3px 15px;
     line-height: 20px
   }
 
