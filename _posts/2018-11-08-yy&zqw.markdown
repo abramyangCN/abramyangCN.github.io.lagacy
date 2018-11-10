@@ -2,6 +2,10 @@
 layout: post
 title:  "杨杨和周沁玮的小破站"
 date:   2018-11-08 22:48:08 +0800
-categories: 第一篇
+#header-img: img/post-bg-universe.jpg
+catalog: true
+author: zqw
+tags:
+    - origin
 ---
 杨杨爱周沁玮！
