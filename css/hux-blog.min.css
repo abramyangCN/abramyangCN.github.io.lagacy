@@ -518,8 +518,8 @@ pre code {
   }
 }
 
+
 .intro-header {
-  height: 100vh;
   background: no-repeat center center;
   background-color: gray;
   background-attachment: scroll;
@@ -536,6 +536,16 @@ pre code {
   }
 }
 
+.intro-header-fullscreen {
+  height: 100vh;
+}
+@media only screen and (max-width: 768px) {
+  .intro-header-fullscreen {
+    background-position: 75% center;
+  }
+}
+
+
 .intro-header .site-heading, .intro-header .post-heading, .intro-header .page-heading {
   padding: 85px 0 55px;
   color: #fff
@@ -548,7 +558,7 @@ pre code {
 }
 
 .intro-header .site-heading {
-  padding: 18.125vw 0;
+  padding: 95px 0 70px;
 }
 
 
