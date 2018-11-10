@@ -506,6 +506,9 @@ pre code {
   margin-bottom: 0px;
   /* 0 on mobile, modify by Hux */
 }
+.intro-header-fullscreen {
+  height: 100vh;
+}
 @media only screen and (min-width: 768px) {
   .intro-header {
     margin-bottom: 20px;
