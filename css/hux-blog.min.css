@@ -437,7 +437,7 @@ pre code {
 
 .navbar-custom .navbar-brand {
   color: #fff;
-  padding: 3px 15px;
+  padding: 8px 15px;
   line-height: 20px
 }
 
@@ -453,7 +453,7 @@ pre code {
 
   .navbar-custom .navbar-brand {
     color: #fff;
-    padding: 3px 15px;
+    padding: 8px 15px;
     line-height: 20px
   }
 
@@ -463,7 +463,7 @@ pre code {
 
   .navbar-custom .nav li a {
     color: #fff;
-    padding: 20px
+    padding: 25px
   }
 
   .navbar-custom .nav li a:hover, .navbar-custom .nav li a:focus {
@@ -491,7 +491,7 @@ pre code {
 
   .navbar-custom.is-fixed {
     position: fixed;
-    top: -61px;
+    top: -71px;
     background-color: rgba(255, 255, 255, .9);
     border-bottom: 1px solid #f2f2f2;
     -webkit-transition: -webkit-transform .3s;
@@ -564,7 +564,8 @@ pre code {
 }
 
 .intro-header .site-heading {
-  padding: 95px 0 70px;
+  /* padding: 95px 0 70px; */
+  padding: 250px 0 70px;
 }
 
 
