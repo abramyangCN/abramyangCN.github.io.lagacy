@@ -19,8 +19,8 @@ header-img: img/banner.jpg
 email: abram.yang@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   copyright &copy; 2018 AbrahamYang All Rights Reserved.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://abraham-y.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://abraham-y.github.io" # the subpath of your site, e.g. /blog
+url: "https://abramyang.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_repo: "https://github.com/abraham-y/abraham-y.github.io.git" # you code repository
 
