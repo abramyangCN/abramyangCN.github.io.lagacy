@@ -34,8 +34,8 @@ sidebar-avatar: /img/abraham.jpg        # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-weibo_username:     abramyangCN
-twitter_username:   abraham_qw
+weibo_username:     Rambodec
+twitter_username:   abramyangCN
 github_username:    abramyangCN
 facebook_username:  abramyangCN
 
@@ -86,7 +86,7 @@ ba_track_id: af3e1518f33c39a40d0d551779c9014c
 
 # Google Analytics
 ga_track_id: 'UA-128737324-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto                         # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: abramyang.com                         # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
