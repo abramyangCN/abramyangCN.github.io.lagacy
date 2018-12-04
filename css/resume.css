@@ -86,6 +86,8 @@ ul, li {
   font-size: 48px;
   color: #000000;
   text-align: right;
+  margin-right: 20px;
+  margin-top: 96px
 }
 
 .resume-name>ul>li {
@@ -97,6 +99,7 @@ ul, li {
   width: fit-content;
   right: 0;
   position: absolute;
+  margin-right: 20px;
 }
 
 .resume-firstname {
@@ -104,6 +107,14 @@ ul, li {
   -webkit-background-clip: text;
   color: transparent;
 }
+
+.resume-footer>ul>li {
+    width:16.67%;
+    font-size: 12px;
+    display: inline;
+}
+
+
 
 /* @media screen and (max-width:768px) {
   .resume {
