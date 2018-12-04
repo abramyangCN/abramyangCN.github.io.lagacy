@@ -103,6 +103,8 @@ ul, li {
   position: absolute;
   margin-right: 20px;
   line-height: normal;
+  overflow: hidden;
+  vertical-align: top;
 }
 
 .resume-firstname {
