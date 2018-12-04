@@ -90,8 +90,8 @@ ul, li {
   margin-top: 96px
 }
 
-.resume-name>ul>li {
-  display: inline;
+.resume-name ul li {
+  display: inline-block;
 }
 
 .resume-name>ul {
