@@ -48,6 +48,7 @@
                         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                     </li>
                     {% endif %}{% endfor %}
+
                 </ul>
             </div>
         </div>
@@ -106,4 +107,6 @@
         if(e.target.className == 'icon-bar') return;
         __HuxNav__.close();
     })
+    
+
 </script>
