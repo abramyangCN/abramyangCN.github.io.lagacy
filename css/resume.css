@@ -94,7 +94,7 @@ ul, li {
   display: inline-block;
 }
 
-.resume-name>ul {
+.resume-name ul {
   border-bottom: 5px #000 solid;
   width: fit-content;
   right: 0;
