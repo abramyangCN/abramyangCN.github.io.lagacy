@@ -71,8 +71,8 @@ disqus_username: abramyang
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 51f97a13d775ab225749                           #生成的clientID
-  clientSecret: 0fb28e7af5aadca712044e4c55101f265be5b86f    #生成的clientSecret
+  clientID: a99056ef8a55aa7f7493                       #生成的clientID
+  clientSecret: b767526f5268c5162b7e663be1222c09ba0640da    #生成的clientSecret
   repo: abramyangCN.github.io    #仓库名称
   owner: abramyangCN   #github用户名
   admin: abramyangCN
