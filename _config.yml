@@ -73,9 +73,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 51f97a13d775ab225749                           #生成的clientID
   clientSecret: 0fb28e7af5aadca712044e4c55101f265be5b86f    #生成的clientSecret
-  repo: abraham-y.github.io    #仓库名称
-  owner: abraham-y   #github用户名
-  admin: abraham-y
+  repo: abramyangCN.github.io    #仓库名称
+  owner: abramyangCN   #github用户名
+  admin: abramyangCN
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # 统计
